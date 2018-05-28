@@ -1,6 +1,6 @@
 {
   "name": "time-sleep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JavaScript sleep function",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zsodur/sleep/issues"
   },
-  "homepage": "https://github.com/zsodur/sleep#readme"
+  "homepage": "https://github.com/zsodur/sleep#readme",
+  "keywords": [
+    "sleep"
+  ]
 }
